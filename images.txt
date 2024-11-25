@@ -2,4 +2,5 @@ zabbix/zabbix-agent2
 zabbix/zabbix-server-pgsql
 zabbix/zabbix-web-nginx-pgsql
 alpine
+postgres:13.18-alpine3.19
 
