@@ -1,4 +1,4 @@
-zabbix/zabbix-agent2
+grafana/grafana
 zabbix/zabbix-server-pgsql
 zabbix/zabbix-web-nginx-pgsql
 alpine
