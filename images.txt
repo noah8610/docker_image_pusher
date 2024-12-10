@@ -4,3 +4,4 @@
 #alpine
 #postgres:13.18-alpine3.19
 python:3.9.7
+redis:6.2.16
