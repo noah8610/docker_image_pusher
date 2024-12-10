@@ -1,6 +1,6 @@
-grafana/grafana
-zabbix/zabbix-server-pgsql
-zabbix/zabbix-web-nginx-pgsql
-alpine
-postgres:13.18-alpine3.19
-
+#grafana/grafana
+#zabbix/zabbix-server-pgsql
+#zabbix/zabbix-web-nginx-pgsql
+#alpine
+#postgres:13.18-alpine3.19
+python:3.9.7
