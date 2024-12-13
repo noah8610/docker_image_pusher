@@ -1,7 +1,8 @@
 #grafana/grafana
-#zabbix/zabbix-server-pgsql
-#zabbix/zabbix-web-nginx-pgsql
+zabbix/zabbix-server-pgsql:alpine-7.2.0
+zabbix/zabbix-agent2:7.2.0-alpine
+zabbix/zabbix-web-nginx-pgsql:7.2.0-alpine
 #alpine
 #postgres:13.18-alpine3.19
-python:3.9.7
-redis:6.2.16
+#python:3.9.7
+#redis:6.2.16
